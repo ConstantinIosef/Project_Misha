@@ -1,5 +1,10 @@
-* Project Misha
+# Project Misha
+===
 
----
+Add info below:
+* info 1
+* info 2
+* info 3
 
-First file also readme
+# Release notes Pre-Alpha v1.0:
+- Adding the whole project.
